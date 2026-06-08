@@ -60,13 +60,13 @@ public class SkyBlockConstantsProvider implements DataProvider {
                                         List.of(),
                                         "minecraft:barrier",
                                         List.of(), "", List.of(), ItemMatchCondition.EMPTY_PATTERN
-                                ), new ItemMatchCondition(53,
+                                )/*,new ItemMatchCondition(53,
                                         "Paper Icons",
                                         List.of(),
                                         "",
                                         List.of("minecraft:map", "minecraft:filled_map"),
                                         "", List.of(), ItemMatchCondition.EMPTY_PATTERN
-                                )
+                                )*/
                         ),
                                 Menu.PORHTAL,
                                 List.of(new ItemMatchCondition(31,
